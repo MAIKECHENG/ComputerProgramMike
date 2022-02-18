@@ -25,7 +25,7 @@
 
 [Работа1.8]https://kdocs.cn/l/cjYH2xKXHf6Z
 
-[Работа1.9]
+[Работа1.9]https://kdocs.cn/l/cuNlCzFvEtgg
 
 Тема 5
 
