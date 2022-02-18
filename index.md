@@ -1,15 +1,47 @@
-## Welcome to GitHub Pages
+## Чэн майк
 
-You can use the [editor on GitHub](https://github.com/MAIKECHENG/ComputerProgramMike/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Задание
 
-### Markdown
+Тема 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Работа1.1]https://kdocs.cn/l/cdui2INGJDBG
 
-```markdown
-Syntax highlighted code block
+[Работа1.2]https://kdocs.cn/l/cbRXZ9Hkrp55
+
+Тема 2
+
+[Работа1.3]https://kdocs.cn/l/ch0Ut6HEhX0p
+
+[Работа1.4]https://kdocs.cn/l/ctB4VSjIBQ9g
+
+[Работа1.5]https://kdocs.cn/l/ctBqlzbZtIps
+
+Тема 4
+
+[Работа1.6]https://www.cnblogs.com/finer/p/11895072.html
+
+[Работа1.7]https://www.docin.com/touch/detail.do?id=2447932325
+
+[Работа1.8]https://kdocs.cn/l/cjYH2xKXHf6Z
+
+[Работа1.9]
+
+Тема 5
+
+[Работа1.10]https://kdocs.cn/l/cdiis9mcolt9
+
+[Работа1.11]https://kdocs.cn/l/cssU3mzj1S1A
+
+Тема 6 
+
+[Работа2.1]https://kdocs.cn/l/cl0jrJwFF49l
+
+[Работа2.2]https://kdocs.cn/l/ciI1t9HIQBdS
+
+[Работа2.3]https://kdocs.cn/l/cbAzMhcgwPNo
+
+[Работа2.4]https://kdocs.cn/l/crmDXR77sv6E
 
 # Header 1
 ## Header 2
@@ -23,15 +55,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MAIKECHENG/ComputerProgramMike/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
